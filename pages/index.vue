@@ -6,7 +6,7 @@
         nuxtjs
       </h1>
       <h2 class="subtitle">
-        My astonishing Nuxt.js project, which is in staging. And hopefully prod.
+        My astonishing Nuxt.js project, which is in staging. And hopefully prod. And on mobile on a test-branch prod
       </h2>
       <div class="links">
         <a
